@@ -2,7 +2,7 @@ Usando o dataset: https://www.kaggle.com/lava18/google-play-store-apps
 
 Calcule:
 
-1. Quantos apps por categorías a Loja tem?
+1. Quantos apps por categorias a Loja tem?
 2. Ordene os app pela quantidade de review.
 3. Qual a média de tamanho dos apps por categoria?
 4. Qual a média de quantidade de instalação dos apps por categoria?
